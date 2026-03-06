@@ -13,7 +13,7 @@ I am Bowen Jiang, an Assistant Professor at the [School of Computer and Artifici
 
 My primary research interests lie in **online learning, multi-armed bandits, and caching algorithms**. My work has been published in top-tier (CCF-A/B) conferences and journals, including ICML, EMNLP, and Performance Evaluation.
 
-**Prospective Students**: I am constantly looking for highly motivated students to work together on problems in but not limited to the aforementioned areas. Please email me with your CV and transcripts if you are interested. Students at both undergraduate and graduate levels are welcome!
+**Prospective Students**: I am constantly looking for highly motivated students to work together on problems in but not limited to the aforementioned areas. Please email me with your CV and transcripts if you are interested. Students at both undergraduate and graduate levels are welcome! My email is **jiangbowen@zzu.edu.cn**
 
 
 
