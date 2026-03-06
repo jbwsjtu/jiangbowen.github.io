@@ -30,5 +30,5 @@ Publication
  - **Bowen Jiang**, Chaofan Ma, ”Modeling and Optimizing Latency for Delayed Hit Caching with Stochastic Miss Latency”, 4th International Conference on Networks, Communications and Information Technology (CNCIT), IEEE, 2025.
  - Hanbo Huang, Yihan Li, **Bowen Jiang** , et al., ”A Middle Path for On-Premises LLM Deployment: Preserving Privacy Without Sacrificing Model Confidentiality”, Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), 8332-8370, 2025. (CCF B 类会议)
  -沈志, **江博闻**, 江波, 林涛, ” 延迟命中场景下基于学习方法的缓存性能优化”,中国传媒大学学报（自然科学版）, 30(03), 78-84, 2023。
- -Hanbo Huang, Yihan Li, **Bowen Jiang**, et al. On-Premises LLM Deployment Demands a Middle Path: Preserving Privacy Without Sacrificing Model Confidentiality//ICLR 2025 Workshop on Building Trust in Language Models and Applications.
- -Hanbo Huang, Yihan Li, **Bowen Jiang**, et al. Enhancing the Resilience of LLMs against Grey-box Extractions//ICML 2024 Next Generation of AI Safety Workshop. 2024.
+ -Hanbo Huang, Yihan Li, **Bowen Jiang**, et al. On-Premises LLM Deployment Demands a Middle Path: Preserving Privacy Without Sacrificing Model Confidentiality，ICLR 2025 Workshop on Building Trust in Language Models and Applications.
+ -Hanbo Huang, Yihan Li, **Bowen Jiang**, et al. Enhancing the Resilience of LLMs against Grey-box Extractions，ICML 2024 Next Generation of AI Safety Workshop. 2024.
