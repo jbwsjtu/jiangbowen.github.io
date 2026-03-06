@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 
-I am currently an assistant professor at the [School of Computer and Artificial Intelligence, Zhengzhou University](https://www7.zzu.edu.cn/csai/). I am deeply honored to have conducted my research under the guidance of [Bo Jiang](https://jhc.sjtu.edu.cn/~bjiang/) during my PhD studies.
-During my PhD studies, I was affiliated with the Institute of Data Intelligence at Shanghai Jiao Tong University and the John Hopcroft Center for Computer Science Research.
-The main research directions include online learning algorithms, multi-armed bandit algorithms, caching algorithms, and so on. The main achievements have been published in CCF-A/B conferences and journals such as ICML, Performance Evaluation, and EMNLP.
 
+I am Bowen Jiang, an Assistant Professor at the [School of Computer and Artificial Intelligence, Zhengzhou University](https://www7.zzu.edu.cn/csai/) . I received my Ph.D. in Engineering from Shanghai Jiao Tong University, where I was deeply honored to be advised by Prof. [Bo Jiang](https://jhc.sjtu.edu.cn/~bjiang/) . During my doctoral studies, I was affiliated with the [Institute of Data Intelligence](https://dirc.sjtu.edu.cn/) and the [John Hopcroft Center for Computer Science](https://jhc.sjtu.edu.cn/).
 
+My primary research interests lie in online learning, multi-armed bandits, and caching algorithms. My work has been published in top-tier (CCF-A/B) conferences and journals, including ICML, EMNLP, and Performance Evaluation.
 
 
 
