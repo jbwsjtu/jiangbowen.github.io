@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently an assistant professor at the [School of Computer and Artificial Intelligence, Zhengzhou University(https://www7.zzu.edu.cn/csai/)]. I am deeply honored to have conducted my research under the guidance of [Bo Jiang(https://jhc.sjtu.edu.cn/~bjiang/)] during my PhD studies.
+I am currently an assistant professor at the [School of Computer and Artificial Intelligence, Zhengzhou University](https://www7.zzu.edu.cn/csai/). I am deeply honored to have conducted my research under the guidance of [Bo Jiang](https://jhc.sjtu.edu.cn/~bjiang/) during my PhD studies.
 During my PhD studies, I was affiliated with the Institute of Data Intelligence at Shanghai Jiao Tong University and the John Hopcroft Center for Computer Science Research.
 The main research directions include online learning algorithms, multi-armed bandit algorithms, caching algorithms, and so on. The main achievements have been published in CCF-A/B conferences and journals such as ICML, Performance Evaluation, and EMNLP.
 
