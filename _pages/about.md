@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently an assistant professor at the [School of Computer and Artificial Intelligence, Zhengzhou University(https://www7.zzu.edu.cn/csai/)]. I am deeply honored to have conducted my research under the guidance of [Bo Jiang(https://jhc.sjtu.edu.cn/~bjiang/)] during my PhD studies.
+During my PhD studies, I was affiliated with the Institute of Data Intelligence at Shanghai Jiao Tong University and the John Hopcroft Center for Computer Science Research.
+The main research directions include online learning algorithms, multi-armed bandit algorithms, caching algorithms, and so on. The main achievements have been published in CCF-A/B conferences and journals such as ICML, Performance Evaluation, and EMNLP.
+
 
 A data-driven personal website
 ======
