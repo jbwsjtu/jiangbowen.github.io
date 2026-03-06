@@ -11,11 +11,13 @@ redirect_from:
 
 I am Bowen Jiang, an Assistant Professor at the [School of Computer and Artificial Intelligence, Zhengzhou University](https://www7.zzu.edu.cn/csai/) . I received my Ph.D. in Engineering from Shanghai Jiao Tong University, where I was deeply honored to be advised by Prof. [Bo Jiang](https://jhc.sjtu.edu.cn/~bjiang/) . During my doctoral studies, I was affiliated with the [Institute of Data Intelligence](https://dirc.sjtu.edu.cn/) and the [John Hopcroft Center for Computer Science](https://jhc.sjtu.edu.cn/).
 
-My primary research interests lie in online learning, multi-armed bandits, and caching algorithms. My work has been published in top-tier (CCF-A/B) conferences and journals, including ICML, EMNLP, and Performance Evaluation.
+My primary research interests lie in **online learning, multi-armed bandits, and caching algorithms**. My work has been published in top-tier (CCF-A/B) conferences and journals, including ICML, EMNLP, and Performance Evaluation.
+
+**Prospective Students**: I am constantly looking for highly motivated students to work together on problems in but not limited to the aforementioned areas. Please email me with your CV and transcripts if you are interested. Students at both undergraduate and graduate levels are welcome!
 
 
 
-Education Experience
+Education
 ======
  - 2019 - 2025, Shanghai Jiao Tong University, Information and Communication Engineering, Ph.D Degree.
  - 2015 - 2019,  Xidian University, Communication Engineering,  Bachelor Degree.
