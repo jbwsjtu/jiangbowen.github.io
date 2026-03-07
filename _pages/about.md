@@ -33,3 +33,22 @@ Publication
  - 沈志, **江博闻**, 江波, 林涛, ” 延迟命中场景下基于学习方法的缓存性能优化”,中国传媒大学学报（自然科学版）, 30(03), 78-84, 2023。
  - Hanbo Huang, Yihan Li, **Bowen Jiang**, et al. , ”On-Premises LLM Deployment Demands a Middle Path: Preserving Privacy Without Sacrificing Model Confidentiality”,ICLR 2025 Workshop on Building Trust in Language Models and Applications.
  - Hanbo Huang, Yihan Li, **Bowen Jiang**, et al., ”Enhancing the Resilience of LLMs against Grey-box Extractions”, ICML 2024 Next Generation of AI Safety Workshop. 2024.
+
+
+Awards
+======
+ - 07/2023, ICML Student Scholar Award, ICML 2023
+
+ - 11/2019, Third Prize, China Graduate Mathematical Modeling Competition
+
+ - 06/2019, Outstanding Graduate, Xidian University
+
+ - 04/2018, Honorable Mention, Mathematical Contest in Modeling (MCM/ICM)
+
+ - 10/2017, National Encouragement Scholarship
+
+ - 11/2016, Second Prize, Chinese Mathematics Competitions (Shaanxi Province)
+
+
+
+
