@@ -16,9 +16,9 @@ My primary research interests lie in **online learning, multi-armed bandits, and
 **Prospective Students**: I am constantly looking for highly motivated students to work together on problems in but not limited to the aforementioned areas. Please email me with your CV and transcripts if you are interested. Students at both undergraduate and graduate levels are welcome! My email is **jiangbowen@zzu.edu.cn**.
 
 
-News
+<span style="color: red;">News</span>
 ======
-- 【2026.9】 <span style="color: red; font-weight: bold;"> One first-author paper has been accepted by NeurIPS 2026!</span>
+- <span style="color: red; font-weight: bold;">【2026.9】 One first-author paper has been accepted by NeurIPS 2026!</span>
 
 Education
 ======
