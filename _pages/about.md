@@ -16,6 +16,9 @@ My primary research interests lie in **online learning, multi-armed bandits, and
 **Prospective Students**: I am constantly looking for highly motivated students to work together on problems in but not limited to the aforementioned areas. Please email me with your CV and transcripts if you are interested. Students at both undergraduate and graduate levels are welcome! My email is **jiangbowen@zzu.edu.cn**.
 
 
+News
+======
+- 【2026.9】 <span style="color: red; font-weight: bold;"> One first-author paper has been accepted by NeurIPS 2026!</span>
 
 Education
 ======
@@ -24,6 +27,7 @@ Education
 
 Publication
 ======
+ - **Bowen Jiang**, Qi Li, Chaofan Ma,  Duo Wang, ”No-Regret Caching with Delayed Hits”, NeurIPS 2026, Sydney, Australia. (CCF A 类会议)
  - **Bowen Jiang**, Bo Jiang, Jian Li, Tao Lin, Xinbing Wang, Chenghu Zhou, ”Online Restless Bandits with Unobserved States”, ICML 2023, Honolulu, HI, USA.
 (CCF A 类会议)
  - **Bowen Jiang**, Yubo Yang, Bo Jiang, ”Optimizing Latency for Caching with Delayed Hits in Non-Stationary Environment”, Performance Evaluation, Volume
