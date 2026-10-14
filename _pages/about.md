@@ -27,7 +27,7 @@ Education
 
 Publication
 ======
- - **Bowen Jiang**, Qi Li, Chaofan Ma,  Duo Wang, ”No-Regret Caching with Delayed Hits”, NeurIPS 2026, Sydney, Australia. (CCF A 类会议)
+ - **Bowen Jiang**, Chaofan Ma, Qi Li, Duo Wang, ”No-Regret Caching with Delayed Hits”, NeurIPS 2026, Sydney, Australia. (CCF A 类会议)
  - **Bowen Jiang**, Bo Jiang, Jian Li, Tao Lin, Xinbing Wang, Chenghu Zhou, ”Online Restless Bandits with Unobserved States”, ICML 2023, Honolulu, HI, USA.
 (CCF A 类会议)
  - **Bowen Jiang**, Yubo Yang, Bo Jiang, ”Optimizing Latency for Caching with Delayed Hits in Non-Stationary Environment”, Performance Evaluation, Volume
